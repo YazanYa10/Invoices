@@ -1,0 +1,6 @@
+áßí íÚãá ÇáãÔÑæÚ ÈÔßá ÕÍíÍ íÌÈ ÅäÔÇÁ ŞÇÚÏÉ ÈíÇäÇÊ æãä Ëã
+1:php artisan migrate
+2:php artisan db:seed -- CreateAdminUserSeeder
+3:php artisan db:seed -- PermissionTableSeeder
+
+DataBase Name:invoices
